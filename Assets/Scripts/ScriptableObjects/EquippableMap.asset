@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a06e615d59703754fa5fca6a5e484d09, type: 3}
+  m_Name: EquippableMap
+  m_EditorClassIdentifier: 
+  equippableTuples:
+  - prefab: {fileID: 2328777999174560680, guid: e981e3bbb7912004abb82fc07f31f160,
+      type: 3}
+    EquippableType: 0
+  - prefab: {fileID: 4179160649008192807, guid: 5e2d1ccec40e30d498325a29a2a78589,
+      type: 3}
+    EquippableType: 1
